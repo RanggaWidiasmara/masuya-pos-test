@@ -9,7 +9,7 @@ Dilengkapi dengan fitur *auto-generate invoice*, *pessimistic locking* (anti *ra
 - Composer
 
 ## Instalasi
-1. Clone repository ini: `git clone [URL_REPO_KAMU]`
+1. Clone repository ini: `git clone https://github.com/RanggaWidiasmara/masuya-pos-test.git`
 2. Jalankan `composer install`
 3. Salin `.env.example` menjadi `.env` dan sesuaikan konfigurasi database.
 4. Jalankan `php artisan key:generate`
